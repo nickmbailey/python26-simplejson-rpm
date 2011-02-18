@@ -1,0 +1,11 @@
+--- a/setup.py	2010-11-05 02:37:41.000000000 +0000
++++ b/setup.py	2011-02-18 21:58:43.000000000 +0000
+@@ -82,7 +82,7 @@
+         features = {}
+ 
+     setup(
+-        name="simplejson",
++        name="python26-simplejson",
+         version=VERSION,
+         description=DESCRIPTION,
+         long_description=LONG_DESCRIPTION,
